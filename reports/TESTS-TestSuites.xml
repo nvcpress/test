@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" hostname="Heedon-HP" id="0" name="TestGitSample" package="org.jaykyung.test" tests="1" time="0.068" timestamp="2012-11-07T08:16:26">
+      <properties>
+          <property name="java.vendor" value="Oracle Corporation" />
+
+          <property name="ant.file.type.GitSample" value="file" />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/C:/eclipse-juno/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+
+          <property name="dist" value="C:\wamp\www\GitSample\dist" />
+
+          <property name="lib" value="C:\wamp\www\GitSample\lib" />
+
+          <property name="os.name" value="Windows 7" />
+
+          <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_01\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_01\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_01\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_01\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_01\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_01\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_01\jre\classes" />
+
+          <property name="TODAY" value="November 7 2012" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+
+          <property name="ant.home" value="C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730" />
+
+          <property name="java.runtime.version" value="1.7.0_01-b08" />
+
+          <property name="user.name" value="Heedon" />
+
+          <property name="reports" value="C:\wamp\www\GitSample\reports" />
+
+          <property name="user.language" value="en" />
+
+          <property name="build" value="C:\wamp\www\GitSample\bin" />
+
+          <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_01\jre\bin" />
+
+          <property name="ant.project.default-target" value="dist" />
+
+          <property name="ant.project.name" value="GitSample" />
+
+          <property name="DSTAMP" value="20121107" />
+
+          <property name="java.version" value="1.7.0_01" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="64" />
+
+          <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_01\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="amd64" />
+
+          <property name="sun.jnu.encoding" value="Cp1252" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="51.0" />
+
+          <property name="src" value="C:\wamp\www\GitSample\src" />
+
+          <property name="user.country" value="US" />
+
+          <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_01\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\wamp\www\GitSample\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="res" value="C:\wamp\www\GitSample\res" />
+
+          <property name="project_name" value="GitSample" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="21.1-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="user.script" value="" />
+
+          <property name="eclipse.pdebuild.scripts" value="/C:/eclipse-juno/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/scripts/" />
+
+          <property name="user.home" value="C:\Users\Heedon" />
+
+          <property name="java.specification.vendor" value="Oracle Corporation" />
+
+          <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_01\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:/Program Files/Java/jdk1.7.0_01/bin/../jre/bin/server;c:/Program Files/Java/jdk1.7.0_01/bin/../jre/bin;c:/Program Files/Java/jdk1.7.0_01/bin/../jre/lib/amd64;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Ruby193\bin;c:\Program Files\Java\jdk1.7.0_01\bin;c:\dev\jre7\bin;c:\dev\maven\bin;c:\MinGW\bin;\c:\cygwin\bin;C:\Perl64\site\bin;C:\Perl64\bin;C:\Program Files (x86)\PHP\;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\Program Files (x86)\CollabNet\Subversion Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;c:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;c:\Program Files (x86)\Common Files\Roxio Shared\12.0\DLLShared\;c:\data\programming\python312\python.exe;J:\Subversion\bin;C:\Program Files\TortoiseSVN\bin;C:\svn\bin;C:\Program Files (x86)\Pinnacle\Shared Files\;C:\Program Files (x86)\Pinnacle\Shared Files\Filter\;C:\Program Files (x86)\Windows Live\Shared;c:\date\programming\selenium-chrome-driver\chromedriver.exe;J:\data\apache-ant-1.8.2\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Subversion\bin;C:\Program Files (x86)\Java\jre1.6.0_24\bin\java.exe;C:\data\programming\ant\apache-ant-1.8.4/bin;%M2_HOME%/bin;C:\data\programming\ant\apache-ant-1.8.4\bin;C:\eclipse-juno\eclipse;;." />
+
+          <property name="java.vendor.url" value="http://java.oracle.com/" />
+
+          <property name="java.vm.vendor" value="Oracle Corporation" />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner org.jaykyung.test.TestGitSample filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\wamp\www\GitSample\reports\raw\TEST-org.jaykyung.test.TestGitSample.xml crashfile=C:\wamp\www\GitSample\junitvmwatcher2327372076290162972.properties propsfile=C:\wamp\www\GitSample\junit6731945135701416407.properties" />
+
+          <property name="java.class.path" value="C:\wamp\www\GitSample\bin;C:\wamp\www\GitSample\lib\junit.jar;C:\wamp\www\GitSample;C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-launcher.jar;C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant.jar;C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-junit.jar;C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.3 compiled on February 26 2012" />
+
+          <property name="jar_name" value="GitSample.jar" />
+
+          <property name="TSTAMP" value="0016" />
+
+          <property name="war_name" value="GitSample.war" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.7" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="Service Pack 1" />
+
+          <property name="eclipse.pdebuild.home" value="/C:/eclipse-juno/eclipse/plugins/org.eclipse.pde.build_3.8.1.v20120725-202643/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\Heedon\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+
+          <property name="os.arch" value="amd64" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_01\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\wamp\www\GitSample" />
+
+          <property name="ant.file.GitSample" value="C:\wamp\www\GitSample\build.xml" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+
+          <property name="basedir" value="C:\wamp\www\GitSample" />
+
+          <property name="ant.java.version" value="1.7" />
+
+          <property name="ant.core.lib" value="C:\eclipse-juno\eclipse\plugins\org.apache.ant_1.8.3.v20120321-1730\lib\ant.jar" />
+
+          <property name="file.encoding" value="Cp1252" />
+
+          <property name="java.specification.version" value="1.7" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <testcase classname="org.jaykyung.test.TestGitSample" name="initializationError" time="0.006">
+          <error message="org/hamcrest/SelfDescribing" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:791)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449)
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:525)
+Caused by: java.lang.ClassNotFoundException: org.hamcrest.SelfDescribing
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>
